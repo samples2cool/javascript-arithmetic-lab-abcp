@@ -15,3 +15,4 @@ function makeInt(n){
 }
 var n=0;
 var array=[1,3,5];
+var val=[n++]
