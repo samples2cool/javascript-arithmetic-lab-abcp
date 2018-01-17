@@ -13,3 +13,4 @@ function divide (x,y){
 function makeInt(n){
   return parseInt(n,10);
 }
+var n=0
