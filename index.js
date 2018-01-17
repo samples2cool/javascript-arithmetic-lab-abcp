@@ -16,3 +16,6 @@ function makeInt(n){
 var inc=n;
 var array=[1,3,5];
 var val=[++inc];
+function inc(n){
+  return ++n
+}
