@@ -22,3 +22,6 @@ function inc(n){
 function makeInt(NaN){
   return parseInt(NaN,10)
 }
+function makeInt('n'){
+  return parseInt('n',10)
+}
