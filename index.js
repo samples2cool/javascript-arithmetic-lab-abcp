@@ -14,3 +14,4 @@ function makeInt(n){
   return parseInt(n,10);
 }
 var n=0;
+var array=[]
