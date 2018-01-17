@@ -13,6 +13,6 @@ function divide (x,y){
 function makeInt(n){
   return parseInt(n,10);
 }
-var n=0;
+var inc=n;
 var array=[1,3,5];
 var val=[++n];
