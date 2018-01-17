@@ -16,6 +16,6 @@ function makeInt(n){
 function increment(n){
   return (++n)
 }
-var x=5;
+var x=n;
 x++;
-var z=x;
+var z=n;
