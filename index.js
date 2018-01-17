@@ -19,9 +19,9 @@ function dec(n){
 function inc(n){
   return ++n
 }
-function makeInt(NaN){
+function preserveDecimal(NaN){
   return parseInt(NaN,10)
 }
-function parseInt(n){
+function preserveDecimal(n){
   return parseFloat(n,10);
 }
