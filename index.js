@@ -13,6 +13,6 @@ function divide (x,y){
 function makeInt(n){
   return parseInt(n,10);
 }
-function makeFloat(n){
-  return parseFloat(n,10)
+function increment(n){
+  return (++n)
 }
