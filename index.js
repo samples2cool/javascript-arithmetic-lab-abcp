@@ -13,9 +13,4 @@ function divide (x,y){
 function makeInt(n){
   return parseInt(n,10);
 }
-function increment(n){
-  return (++n)
-}
-var n=inc;
-n++;
-var z=inc;
+function 
