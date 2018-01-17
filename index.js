@@ -13,6 +13,9 @@ function divide (x,y){
 function makeInt(n){
   return parseInt(n,10);
 }
+fuction makeFloat('n'){
+  return parseFloat(n,10);
+}
 var inc=n;
 var array=[1,3,5];
 var val=[++inc];
