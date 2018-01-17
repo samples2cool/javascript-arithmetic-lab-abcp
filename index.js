@@ -16,12 +16,6 @@ function makeInt(n){
 fuction ;makeFloat('n'){
   return parseFloat(n,10);
 }
-var inc=n;
-var array=[1,3,5];
-var val=[++inc];
-function inc(n){
-  return ++n
-}
 function dec(n){
   return --n
 }
