@@ -17,3 +17,5 @@ function increment(n){
   return (++n)
 }
 var x=5;
+x++;
+Var z=x
