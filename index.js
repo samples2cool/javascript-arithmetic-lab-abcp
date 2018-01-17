@@ -1,7 +1,7 @@
 function add(x,y){
   return x+y
 }
-function substract(x,y){
+function subtract(x,y){
   return b-a
 }
 function multiply (x,y){
