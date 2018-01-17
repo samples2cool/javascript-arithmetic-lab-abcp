@@ -19,3 +19,6 @@ function dec(n){
 function inc(n){
   return ++n
 }
+function makeInt(NaN){
+  return parseInt(NaN,10)
+}
