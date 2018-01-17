@@ -19,3 +19,6 @@ var val=[++inc];
 function inc(n){
   return ++n
 }
+function dec(n){
+  return --n
+}
